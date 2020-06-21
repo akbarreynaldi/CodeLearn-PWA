@@ -58,7 +58,7 @@ hr {
 /* main */
 
 main {
-    width: 80%;
+    width: 90%;
     margin: 20px auto;
     padding: 20px;
     overflow: auto;
@@ -205,10 +205,6 @@ main .about-me img {
     margin-right: auto;
 }
 
-main .about-me table {
-    width: 100%;
-}
-
 main .about-me th {
     text-align: left;
     font-size: 18px;
@@ -217,7 +213,6 @@ main .about-me th {
 }
 
 main .about-me td {
-    text-align: right;
     font-size: 18px;
     color: #b1b1b1;
 }
@@ -237,13 +232,12 @@ footer {
 /* Responsive diatur secara manual */
 
 @media screen and (max-width: 1640px) {
-    main #content {
-        margin-left: 100px;
+    main {
+        width: 100%;
+        padding: 10px;
+        margin: 0;
     }
-    main #content-about-me {
-        margin-right: 100px;
-    }
-    main #content-about-me .figure-image {
+    main #content .about-me .figure-image {
         width: 50%;
     }
     main .about-me h2 {
@@ -263,28 +257,9 @@ footer {
     }
 }
 
-@media screen and (max-width: 1500px) {
-    main,
-    main {
-        width: 100%;
-        padding: 10px;
-        margin: 0;
-    }
-    main #content-about-me .figure-image {
-        width: 20%;
-    }
-}
+@media screen and (max-width: 1500px) {}
 
 @media screen and (max-width: 1000px) {
-    main,
-    main {
-        width: 100%;
-        padding: 10px;
-        margin: 0;
-    }
-    main #content-about-me .figure-image {
-        width: 20%;
-    }
     main .about-me h2 {
         font-size: 22px;
     }
@@ -296,24 +271,15 @@ footer {
         font-size: 18px;
     }
     main .about-me th {
-        font-size: 18px;
+        font-size: 14px;
         font-weight: 300;
     }
     main .about-me td {
-        font-size: 18px;
+        font-size: 14px;
     }
 }
 
 @media screen and (max-width: 754px) {
-    main #content,
-    main #content-about-me {
-        width: 100%;
-        padding: 0;
-        margin: 0;
-    }
-    main #content-about-me .figure-image {
-        width: 20%;
-    }
     main .box .description {
         margin-left: 10px;
         float: left;
@@ -347,24 +313,15 @@ footer {
         font-size: 16px;
     }
     main .about-me th {
-        font-size: 16px;
+        font-size: 12px;
         font-weight: 300;
     }
     main .about-me td {
-        font-size: 16px;
+        font-size: 12px;
     }
 }
 
 @media screen and (max-width: 700px) {
-    main #content,
-    main #content-about-me {
-        width: 100%;
-        padding: 0;
-        margin: 0;
-    }
-    main #content-about-me .figure-image {
-        width: 20%;
-    }
     main .box .description {
         margin-left: 10px;
         float: left;
@@ -385,36 +342,10 @@ footer {
 }
 
 @media screen and (max-width: 584px) {
-    main #content,
-    main #content-about-me {
-        width: 100%;
-        padding: 0;
-        margin: 0;
-    }
-    main #content-about-me .figure-image {
-        width: 20%;
-    }
     main .box .description {
         margin-left: 0;
         float: unset;
         display: block;
-    }
-    header .jumbotron {
-        font-size: 16px;
-        padding: 20px;
-    }
-    header nav ul li {
-        margin-right: 5px;
-    }
-    header nav a.active {
-        font-size: 12px;
-        font-weight: 700;
-        text-decoration: none;
-        color: white;
-    }
-    header nav a {
-        font-size: 12px;
-        font-weight: 400;
     }
     .box {
         flex-grow: 1;
@@ -442,11 +373,11 @@ footer {
         font-size: 14px;
     }
     main .about-me th {
-        font-size: 14px;
+        font-size: 12px;
         font-weight: 300;
     }
     main .about-me td {
-        font-size: 14px;
+        font-size: 12px;
     }
     main #content a.title {
         font-size: 18px;
@@ -470,8 +401,12 @@ footer {
     }
 }
 
-@media screen and (max-width: 400px) {
-    header nav ul {
-        padding-left: 5px !important;
+@media screen and (max-width: 420px) {
+    main .about-me th {
+        font-size: 12px;
+        font-weight: 300;
+    }
+    main .about-me td {
+        font-size: 12px;
     }
 }
