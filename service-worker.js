@@ -1,4 +1,4 @@
-const CACHE_NAME = "CodeLearnpwa-v2";
+const CACHE_NAME = "CodeLearnpwa-v3";
 var urlsToCache = [
     "https://fonts.googleapis.com/icon?family=Material+Icons",
     "/",
@@ -10,6 +10,7 @@ var urlsToCache = [
     "/pages/android.html",
     "/pages/web.html",
     "/pages/about.html",
+    "/src",
     "/src/css/materialize.min.css",
     "/src/css/main.css",
     "/src/js/materialize.min.js",
