@@ -1,5 +1,6 @@
 const CACHE_NAME = "CodeLearnpwa-v2";
 var urlsToCache = [
+    "https://fonts.googleapis.com/icon?family=Material+Icons",
     "/",
     "/manifest.json",
     "/nav-menu.html",
