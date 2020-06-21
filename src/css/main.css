@@ -7,6 +7,13 @@
 }
 
 
+/* materialize icons */
+
+.material-icons {
+    line-height: unset !important;
+}
+
+
 /* flexbox */
 
 .flex-column {
