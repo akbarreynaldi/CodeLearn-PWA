@@ -1,4 +1,4 @@
-const CACHE_NAME = "CodeLearnpwa-v3";
+const CACHE_NAME = "CodeLearnpwa-v2";
 var urlsToCache = [
     "https://fonts.googleapis.com/icon?family=Material+Icons",
     "/",
