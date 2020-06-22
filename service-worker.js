@@ -32,6 +32,7 @@ var urlsToCache = [
     "/src/images/ic_CodeLearn_256.svg",
     "/src/images/ic_CodeLearn_384.svg",
     "/src/images/ic_CodeLearn_512.svg",
+    "/src/images/ic_CodeLearn_iOS.png"
 ];
 
 self.addEventListener("install", function(event) {
