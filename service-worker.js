@@ -14,7 +14,7 @@ var urlsToCache = [
     "/src/css/materialize.min.css",
     "/src/css/main.css",
     "/src/js/materialize.min.js",
-    "/src/js/nav-menu.js",
+    "/src/js/loadContent.js",
     "/src/images",
     "/src/images/android-1.jpg",
     "/src/images/ios-1.jpg",
