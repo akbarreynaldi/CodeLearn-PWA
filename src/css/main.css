@@ -55,6 +55,13 @@ hr {
 }
 
 
+/* logo */
+
+a#logo-container {
+    padding: 5px 0px;
+}
+
+
 /* main */
 
 main {
