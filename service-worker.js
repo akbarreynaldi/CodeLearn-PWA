@@ -24,14 +24,14 @@ var urlsToCache = [
     "/src/images/mentor_pic-2.png",
     "/src/images/mentor_pic-1.png",
     "/src/images/logo_CodeLearn_white.png",
-    "/src/images/ic_CodeLearn_72.svg",
-    "/src/images/ic_CodeLearn_96.svg",
-    "/src/images/ic_CodeLearn_128.svg",
-    "/src/images/ic_CodeLearn_144.svg",
-    "/src/images/ic_CodeLearn_192.svg",
-    "/src/images/ic_CodeLearn_256.svg",
-    "/src/images/ic_CodeLearn_384.svg",
-    "/src/images/ic_CodeLearn_512.svg",
+    "/src/images/ic_CodeLearn_72.png",
+    "/src/images/ic_CodeLearn_96.png",
+    "/src/images/ic_CodeLearn_128.png",
+    "/src/images/ic_CodeLearn_144.png",
+    "/src/images/ic_CodeLearn_192.png",
+    "/src/images/ic_CodeLearn_256.png",
+    "/src/images/ic_CodeLearn_384.png",
+    "/src/images/ic_CodeLearn_512.png",
     "/src/images/ic_CodeLearn_iOS.png"
 ];
 

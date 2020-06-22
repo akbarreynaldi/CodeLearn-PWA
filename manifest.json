@@ -7,44 +7,44 @@
     "background_color": "#071C40",
     "theme_color": "#071C40",
     "icons": [{
-            "src": "./src/images/ic_CodeLearn_72.svg",
+            "src": "./src/images/ic_CodeLearn_72.png",
             "sizes": "72x72",
-            "type": "image/svg"
+            "type": "image/png"
         },
         {
-            "src": "./src/images/ic_CodeLearn_96.svg",
+            "src": "./src/images/ic_CodeLearn_96.png",
             "sizes": "96x96",
-            "type": "image/svg"
+            "type": "image/png"
         },
         {
-            "src": "./src/images/ic_CodeLearn_128.svg",
+            "src": "./src/images/ic_CodeLearn_128.png",
             "sizes": "128x128",
-            "type": "image/svg"
+            "type": "image/png"
         },
         {
-            "src": "./src/images/ic_CodeLearn_144.svg",
+            "src": "./src/images/ic_CodeLearn_144.png",
             "sizes": "144x144",
-            "type": "image/svg"
+            "type": "image/png"
         },
         {
-            "src": "./src/images/ic_CodeLearn_192.svg",
+            "src": "./src/images/ic_CodeLearn_192.png",
             "sizes": "192x192",
-            "type": "image/svg"
+            "type": "image/png"
         },
         {
-            "src": "./src/images/ic_CodeLearn_256.svg",
+            "src": "./src/images/ic_CodeLearn_256.png",
             "sizes": "256x256",
-            "type": "image/svg"
+            "type": "image/png"
         },
         {
-            "src": "./src/images/ic_CodeLearn_384.svg",
+            "src": "./src/images/ic_CodeLearn_384.png",
             "sizes": "384x384",
-            "type": "image/svg"
+            "type": "image/png"
         },
         {
-            "src": "./src/images/ic_CodeLearn_512.svg",
+            "src": "./src/images/ic_CodeLearn_512.png",
             "sizes": "512x512",
-            "type": "image/svg"
+            "type": "image/png"
         }
     ]
 }
