@@ -23,7 +23,7 @@ var urlsToCache = [
     "/src/images/mentor_pic-3.png",
     "/src/images/mentor_pic-2.png",
     "/src/images/mentor_pic-1.png",
-    "/src/images/logo_CodeLearn_white.svg",
+    "/src/images/logo_CodeLearn_white.png",
     "/src/images/ic_CodeLearn_72.svg",
     "/src/images/ic_CodeLearn_96.svg",
     "/src/images/ic_CodeLearn_128.svg",
